@@ -10,7 +10,7 @@ Postcode,Neighbourhood,Zoning,Borough,Latitude,Longitude
 76008,Centro Sct Queretaro,Residential,Queretaro,20.6121194,-100.3850819
 76009,Palacio de Gobierno Del Estado de Queretaro,Institutional,Queretaro,20.6121194,-100.3850819
 76010,Las Campanas,Residential,Queretaro,20.5891449,-100.410023
-76010,Niños Heroes,Residential,Queretaro,20.5891449,-100.410023
+76010,Ni√±os Heroes,Residential,Queretaro,20.5891449,-100.410023
 76017,Circuito Universitario,Residential,Queretaro,20.6121194,-100.3850819
 76017,Centro Universitario (U.A.Q.),Institutional,Queretaro,20.6121194,-100.3850819
 76020,Pathe,Residential,Queretaro,20.59515797,-100.3801638
@@ -23,13 +23,13 @@ Postcode,Neighbourhood,Zoning,Borough,Latitude,Longitude
 76020,La Cruz,Residential,Queretaro,20.59515797,-100.3801638
 76024,El Cortijo II,Residential,Queretaro,20.60100998,-100.3692154
 76024,Calesa 2a Seccion,Residential,Queretaro,20.60100998,-100.3692154
-76024,Peñitas,Residential,Queretaro,20.60100998,-100.3692154
+76024,Pe√±itas,Residential,Queretaro,20.60100998,-100.3692154
 76024,Conjunto Seminario,Residential,Queretaro,20.60100998,-100.3692154
 76024,Balcones Del Acueducto,Residential,Queretaro,20.60100998,-100.3692154
 76024,Villa Los Arcos,Residential,Queretaro,20.60100998,-100.3692154
 76024,Karina,Residential,Queretaro,20.60100998,-100.3692154
 76024,Del Rio,Residential,Queretaro,20.60100998,-100.3692154
-76024,La Peñita,Residential,Queretaro,20.60100998,-100.3692154
+76024,La Pe√±ita,Residential,Queretaro,20.60100998,-100.3692154
 76024,Los Arcos,Residential,Queretaro,20.60100998,-100.3692154
 76024,El Oasis,Residential,Queretaro,20.60100998,-100.3692154
 76024,Cortijo II,Residential,Queretaro,20.60100998,-100.3692154
@@ -123,12 +123,12 @@ Postcode,Neighbourhood,Zoning,Borough,Latitude,Longitude
 76074,La Alhambra,Residential,Queretaro,20.56405397,-100.3768758
 76074,Vista Alegre 2a Secc,Residential,Queretaro,20.56405397,-100.3768758
 76074,Vista Alegre,Residential,Queretaro,20.56405397,-100.3768758
-76074,Vista Alegre 3a Secci√≥n,Residential,Queretaro,20.56405397,-100.3768758
+76074,Vista Alegre 3a Secci√É¬≥n,Residential,Queretaro,20.56405397,-100.3768758
 76074,Residencial Alambra,Residential,Queretaro,20.56405397,-100.3768758
 76074,Vista Alegre Maxei,Residential,Queretaro,20.56405397,-100.3768758
 76078,Villas Valle Alameda,Residential,Queretaro,20.6121194,-100.3850819
-76079,Balaustradas,Residential,Queretaro,20.5764601, -100.38223
-76079,Quinta Balaustradas,Residential,Queretaro,21.5764601, -100.38224
+76079,Balaustradas,Residential,Queretaro,20.5764601,-100.38223
+76079,Quinta Balaustradas,Residential,Queretaro,21.5764601,-100.38224
 76080,Presidentes,Residential,Queretaro,20.56155833,-100.3984201
 76080,Papanoa,Residential,Queretaro,20.56155833,-100.3984201
 76080,Maria Esther Zuno de Echeverria,Residential,Queretaro,20.56155833,-100.3984201
@@ -260,7 +260,7 @@ Postcode,Neighbourhood,Zoning,Borough,Latitude,Longitude
 76113,Tonatiuh,Residential,Queretaro,20.61465416,-100.4538908
 76113,Santa Isabel,Residential,Queretaro,20.61465416,-100.4538908
 76113,Rancho San Pedro,Residential,Queretaro,20.61465416,-100.4538908
-76113,Plan Santa Mar√≠a,Residential,Queretaro,20.61465416,-100.4538908
+76113,Plan Santa Mar√É¬≠a,Residential,Queretaro,20.61465416,-100.4538908
 76113,Alborada,Residential,Queretaro,20.61465416,-100.4538908
 76113,El Arcangel,Residential,Queretaro,20.61465416,-100.4538908
 76113,Valle de San Pedro,Residential,Queretaro,20.61465416,-100.4538908
@@ -271,7 +271,7 @@ Postcode,Neighbourhood,Zoning,Borough,Latitude,Longitude
 76114,Puertas Del Sol,Residential,Queretaro,20.61434017,-100.4383958
 76114,Los Sauces,Residential,Queretaro,20.61434017,-100.4383958
 76114,El Rocio,Residential,Queretaro,20.61434017,-100.4383958
-76114,Los Castaños,Residential,Queretaro,20.61434017,-100.4383958
+76114,Los Casta√±os,Residential,Queretaro,20.61434017,-100.4383958
 76114,Sendero,Commercial,Queretaro,20.61434017,-100.4383958
 76114,Don Manuel,Residential,Queretaro,20.61434017,-100.4383958
 76114,La Huerta,Residential,Queretaro,20.61434017,-100.4383958
@@ -307,7 +307,7 @@ Postcode,Neighbourhood,Zoning,Borough,Latitude,Longitude
 76116,Teotihuacan,Residential,Queretaro,20.64267953,-100.4729333
 76116,Josefa Ortiz de Dominguez IV,Residential,Queretaro,20.64267953,-100.4729333
 76116,Las Camelinas,Residential,Queretaro,20.64267953,-100.4729333
-76116,La Peña,Residential,Queretaro,20.64267953,-100.4729333
+76116,La Pe√±a,Residential,Queretaro,20.64267953,-100.4729333
 76116,Victor Iturbe,Residential,Queretaro,20.64267953,-100.4729333
 76116,Jardines de Azucenas,Residential,Queretaro,20.64267953,-100.4729333
 76116,Geo Villas,Residential,Queretaro,20.64267953,-100.4729333
@@ -360,7 +360,7 @@ Postcode,Neighbourhood,Zoning,Borough,Latitude,Longitude
 76118,Cerrito Colorado III,Residential,Queretaro,20.65090622,-100.4717662
 76118,Villas de San Miguel,Residential,Queretaro,20.65090622,-100.4717662
 76118,10 de Abril,Residential,Queretaro,20.65090622,-100.4717662
-76118,Libertadores de Am√©rica,Residential,Queretaro,20.65090622,-100.4717662
+76118,Libertadores de Am√É¬©rica,Residential,Queretaro,20.65090622,-100.4717662
 76118,Francisco Villa II,Residential,Queretaro,20.65090622,-100.4717662
 76118,Paraiso,Residential,Queretaro,20.65090622,-100.4717662
 76118,Prados de Loma Bonita,Residential,Queretaro,20.65090622,-100.4717662
@@ -401,7 +401,7 @@ Postcode,Neighbourhood,Zoning,Borough,Latitude,Longitude
 76125,Jose Maria Bustamante,Residential,Queretaro,20.6324001,-100.4113277
 76125,Rinconada Del Pacifico,Residential,Queretaro,20.6324001,-100.4113277
 76125,Terrazas de San Pablo,Residential,Queretaro,20.6324001,-100.4113277
-76125,Sergio Villaseñor,Residential,Queretaro,20.6324001,-100.4113277
+76125,Sergio Villase√±or,Residential,Queretaro,20.6324001,-100.4113277
 76125,La Condesa,Residential,Queretaro,20.6324001,-100.4113277
 76125,Latinoamericana,Residential,Queretaro,20.6324001,-100.4113277
 76125,San Pablo II,Residential,Queretaro,20.6324001,-100.4113277
@@ -453,7 +453,7 @@ Postcode,Neighbourhood,Zoning,Borough,Latitude,Longitude
 76137,Santa Maria,Residential,Queretaro,20.6121194,-100.3850819
 76137,Huertas La Joya,Residential,Queretaro,20.6121194,-100.3850819
 76137,Fuentes,Residential,Queretaro,20.6121194,-100.3850819
-76137,Santo Niño,Residential,Queretaro,20.6121194,-100.3850819
+76137,Santo Ni√±o,Residential,Queretaro,20.6121194,-100.3850819
 76137,Ferrocarrileros,Residential,Queretaro,20.6121194,-100.3850819
 76137,El Chamizal,Residential,Queretaro,20.6121194,-100.3850819
 76137,San Antonio Del Maurel,Residential,Queretaro,20.6121194,-100.3850819
@@ -465,7 +465,7 @@ Postcode,Neighbourhood,Zoning,Borough,Latitude,Longitude
 76137,Aurora,Residential,Queretaro,20.6121194,-100.3850819
 76137,Residential las Fuentes,Residential,Queretaro,20.6121194,-100.3850819
 76137,La Aurora,Residential,Queretaro,20.6121194,-100.3850819
-76137,Valle Real de San √Ångel,Residential,Queretaro,20.6121194,-100.3850819
+76137,Valle Real de San Angel,Residential,Queretaro,20.6121194,-100.3850819
 76137,Las Flores,Residential,Queretaro,20.6121194,-100.3850819
 76137,La Sierrita,Residential,Queretaro,20.6121194,-100.3850819
 76137,Ferrocarriles Seccion Rinconada Santa Anita,Residential,Queretaro,20.6121194,-100.3850819
@@ -501,14 +501,14 @@ Postcode,Neighbourhood,Zoning,Borough,Latitude,Longitude
 76140,Cedros Tilipanes,Residential,Queretaro,20.61526948,-100.3845081
 76140,Arboledas Del Parque,Residential,Queretaro,20.61526948,-100.3845081
 76140,Balcones Residentialles,Residential,Queretaro,20.61526948,-100.3845081
-76140,San Pedrito Peñuelas,Residential,Queretaro,20.61526948,-100.3845081
+76140,San Pedrito Pe√±uelas,Residential,Queretaro,20.61526948,-100.3845081
 76140,Arboledas,Residential,Queretaro,20.61526948,-100.3845081
 76140,Colinas Del Parque,Residential,Queretaro,20.61526948,-100.3845081
 76144,San Antonio,Residential Unit,Queretaro,20.61467266,-100.3739925
 76144,Puerta del Cielo,Residential,Queretaro,20.61467266,-100.3739925
-76144,Anexo Ejido Bolaños,Residential,Queretaro,20.61467266,-100.3739925
+76144,Anexo Ejido Bola√±os,Residential,Queretaro,20.61467266,-100.3739925
 76144,Balcones,Residential,Queretaro,20.61467266,-100.3739925
-76144,Bolaños,Residential,Queretaro,20.61467266,-100.3739925
+76144,Bola√±os,Residential,Queretaro,20.61467266,-100.3739925
 76144,Rancho San Antonio,Residential,Queretaro,20.61467266,-100.3739925
 76144,Pedregal de Queretaro,Residential,Queretaro,20.61467266,-100.3739925
 76144,El Pedregal de Queretaro,Residential,Queretaro,20.61467266,-100.3739925
@@ -561,7 +561,7 @@ Postcode,Neighbourhood,Zoning,Borough,Latitude,Longitude
 76147,La Tinaja,Residential,Queretaro,20.5954708,-100.3970593
 76147,Rinconada de las Joyas,Residential,Queretaro,20.5954708,-100.3970593
 76147,Renacimiento,Residential,Queretaro,20.5954708,-100.3970593
-76147,Real de España,Residential,Queretaro,20.5954708,-100.3970593
+76147,Real de Espa√±a,Residential,Queretaro,20.5954708,-100.3970593
 76147,Villas de San Jose,Residential,Queretaro,20.5954708,-100.3970593
 76147,Constituyentes 2a Residential,Residential,Queretaro,20.5954708,-100.3970593
 76147,Jardines de San Jose 2a. Seccion,Residential,Queretaro,20.5954708,-100.3970593
@@ -574,7 +574,7 @@ Postcode,Neighbourhood,Zoning,Borough,Latitude,Longitude
 76147,Lomas de San Jose,Residential,Queretaro,20.5954708,-100.3970593
 76147,Lomas de Mechaca,Residential,Queretaro,20.5954708,-100.3970593
 76147,Antorchista,Residential,Queretaro,20.5954708,-100.3970593
-76147,Real España,Residential,Queretaro,20.5954708,-100.3970593
+76147,Real Espa√±a,Residential,Queretaro,20.5954708,-100.3970593
 76147,Cuauhtemoc,Residential,Queretaro,20.5954708,-100.3970593
 76147,Ignacio Perez,Residential,Queretaro,20.5954708,-100.3970593
 76147,Rancho Menchaca,Residential,Queretaro,20.5954708,-100.3970593
@@ -591,24 +591,24 @@ Postcode,Neighbourhood,Zoning,Borough,Latitude,Longitude
 76148,Los Ciruelos,Residential,Queretaro,20.5954708,-100.3970593
 76148,Jardines de Santiago,Residential,Queretaro,20.5954708,-100.3970593
 76148,Lomas de San Pedrito (Seccion Portales),Residential,Queretaro,20.5954708,-100.3970593
-76148,San Pedrito Peñuelas III,Residential,Queretaro,20.5954708,-100.3970593
+76148,San Pedrito Pe√±uelas III,Residential,Queretaro,20.5954708,-100.3970593
 76148,Jardines de Villas de Santiago,Residential,Queretaro,20.5954708,-100.3970593
-76148,Lomas de San Pedrito Peñuelas Secc Portales,Residential,Queretaro,20.5954708,-100.3970593
-76148,San Pedrito Peñuelas II,Residential,Queretaro,20.5954708,-100.3970593
-76148,San Pedrito Peñuelas I,Residential,Queretaro,20.5954708,-100.3970593
+76148,Lomas de San Pedrito Pe√±uelas Secc Portales,Residential,Queretaro,20.5954708,-100.3970593
+76148,San Pedrito Pe√±uelas II,Residential,Queretaro,20.5954708,-100.3970593
+76148,San Pedrito Pe√±uelas I,Residential,Queretaro,20.5954708,-100.3970593
 76148,San Pedrito los Arcos,Residential,Queretaro,20.5954708,-100.3970593
 76148,Los Sabinos,Residential,Queretaro,20.5954708,-100.3970593
 76148,Belen,Residential,Queretaro,20.5954708,-100.3970593
 76148,Jardines del Bosque,Residential,Queretaro,20.5954708,-100.3970593
-76148,Valle de San Pedrito Peñuelas,Residential,Queretaro,20.5954708,-100.3970593
+76148,Valle de San Pedrito Pe√±uelas,Residential,Queretaro,20.5954708,-100.3970593
 76148,San Pedrito Ecologico,Residential,Queretaro,20.5954708,-100.3970593
 76148,Libertad,Residential,Queretaro,20.5954708,-100.3970593
-76148,San Pedrito Peñuelas IV,Residential,Queretaro,20.5954708,-100.3970593
+76148,San Pedrito Pe√±uelas IV,Residential,Queretaro,20.5954708,-100.3970593
 76148,Conjunto Belen,Residential,Queretaro,20.5954708,-100.3970593
 76148,Euripides,Residential,Queretaro,20.5954708,-100.3970593
 76148,El Vergel,Residential,Queretaro,20.5954708,-100.3970593
 76148,Anexo a la Ecologia,Residential,Queretaro,20.5954708,-100.3970593
-76148,Peñuelas,Residential,Queretaro,20.5954708,-100.3970593
+76148,Pe√±uelas,Residential,Queretaro,20.5954708,-100.3970593
 76148,Puerta de Belen,Residential,Queretaro,20.5954708,-100.3970593
 76148,Bosques de Bella Vista,Residential,Queretaro,20.5954708,-100.3970593
 76148,Bosques de la Hacienda,Residential,Queretaro,20.5954708,-100.3970593
@@ -645,7 +645,7 @@ Postcode,Neighbourhood,Zoning,Borough,Latitude,Longitude
 76150,San Pablo Tecnologico,Residential,Queretaro,20.6048567,-100.3988309
 76150,San Roque,Residential,Queretaro,20.6048567,-100.3988309
 76150,La Era,Residential,Queretaro,20.6048567,-100.3988309
-76150,Industrial La Montaña,Residential,Queretaro,20.6048567,-100.3988309
+76150,Industrial La Monta‚Äìa,Residential,Queretaro,20.6048567,-100.3988309
 76150,El Fenix,Residential,Queretaro,20.6048567,-100.3988309
 76150,Los Fresnos,Residential,Queretaro,20.6048567,-100.3988309
 76150,Los Molinos,Residential,Queretaro,20.6048567,-100.3988309
@@ -653,11 +653,11 @@ Postcode,Neighbourhood,Zoning,Borough,Latitude,Longitude
 76150,Los Alcanfores,Residential,Queretaro,20.6048567,-100.3988309
 76150,Los Vitrales,Residential,Queretaro,20.6048567,-100.3988309
 76150,Tecnologico 2000,Residential,Queretaro,20.6048567,-100.3988309
-76150,Zona Industrial la Monta√±a,Industrial Zone,Queretaro,20.6048567,-100.3988309
+76150,Zona Industrial la Monta√É¬±a,Industrial Zone,Queretaro,20.6048567,-100.3988309
 76150,Sauces,Residential,Queretaro,20.6048567,-100.3988309
 76150,Felipe Angeles,Residential,Queretaro,20.6048567,-100.3988309
 76150,Asalias,Residential,Queretaro,20.6048567,-100.3988309
-76150,San Jose de la Monta√±a,Residential,Queretaro,20.6048567,-100.3988309
+76150,San Jose de la Monta√É¬±a,Residential,Queretaro,20.6048567,-100.3988309
 76150,Estio,Residential,Queretaro,20.6048567,-100.3988309
 76150,Geminis,Residential,Queretaro,20.6048567,-100.3988309
 76150,Rinconada los Pirules,Residential,Queretaro,20.6048567,-100.3988309
@@ -675,14 +675,14 @@ Postcode,Neighbourhood,Zoning,Borough,Latitude,Longitude
 76157,Santa Catarina,Residential,Queretaro,20.60685963,-100.4011366
 76158,Departamental los Pirules,Residential,Queretaro,20.60851278,-100.4003571
 76158,Conjunto Parques,Residential,Queretaro,20.60851278,-100.4003571
-76158,España,Residential,Queretaro,20.60851278,-100.4003571
-76158,Las Peñitas,Residential,Queretaro,20.60851278,-100.4003571
+76158,Espa√±a,Residential,Queretaro,20.60851278,-100.4003571
+76158,Las Pe√±itas,Residential,Queretaro,20.60851278,-100.4003571
 76158,Prados Del Tecnologico,Residential,Queretaro,20.60851278,-100.4003571
 76158,Real Del Parque,Residential Unit,Queretaro,20.60851278,-100.4003571
 76158,Victoria,Residential,Queretaro,20.60851278,-100.4003571
 76158,Porvenir,Residential,Queretaro,20.60851278,-100.4003571
 76158,Los Faroles,Residential,Queretaro,20.60851278,-100.4003571
-76158,Las Peñas,Residential,Queretaro,20.60851278,-100.4003571
+76158,Las Pe√±as,Residential,Queretaro,20.60851278,-100.4003571
 76158,Tecnologico,Residential,Queretaro,20.60851278,-100.4003571
 76158,Departamental Parques,Residential,Queretaro,20.60851278,-100.4003571
 76158,El Porvenir,Residential,Queretaro,20.60851278,-100.4003571
@@ -768,11 +768,11 @@ Postcode,Neighbourhood,Zoning,Borough,Latitude,Longitude
 76177,Villa San Antonio,Residential,Queretaro,20.6121194,-100.3850819
 76177,Frida Kahlo,Residential,Queretaro,20.6121194,-100.3850819
 76177,Provincia Santa Elena,Residential,Queretaro,20.6121194,-100.3850819
-76178,El Ensueño,Residential,Queretaro,20.58201607,-100.4138603
+76178,El Ensue√±o,Residential,Queretaro,20.58201607,-100.4138603
 76178,El Rosario,Residential,Queretaro,20.58201607,-100.4138603
 76178,Villa las Arboledas,Residential,Queretaro,20.58201607,-100.4138603
 76178,Los Angeles I,Residential,Queretaro,20.58201607,-100.4138603
-76178,Ensueño,Residential,Queretaro,20.58201607,-100.4138603
+76178,Ensue√±o,Residential,Queretaro,20.58201607,-100.4138603
 76178,La Sandia,Residential,Queretaro,20.58201607,-100.4138603
 76179,El Sillar,Residential,Queretaro,20.6121194,-100.3850819
 76179,Santiago,Residential,Queretaro,20.6121194,-100.3850819
@@ -817,7 +817,7 @@ Postcode,Neighbourhood,Zoning,Borough,Latitude,Longitude
 76214,La Estancia Palo Dulce,Agro-industrial,Queretaro,20.6121194,-100.3850819
 76215,Jofre,Agro-industrial,Queretaro,20.6121194,-100.3850819
 76216,Presa de Becerra,Agro-industrial,Queretaro,20.6121194,-100.3850819
-76217,La Cañada,Agro-industrial,Queretaro,20.6121194,-100.3850819
+76217,La Ca√±ada,Agro-industrial,Queretaro,20.6121194,-100.3850819
 76218,Loma Del Chino,Agro-industrial,Queretaro,20.6121194,-100.3850819
 76219,La Monja,Agro-industrial,Queretaro,20.6121194,-100.3850819
 76220,Continental,Residential,Queretaro,20.5954708,-100.3970593
@@ -861,16 +861,16 @@ Postcode,Neighbourhood,Zoning,Borough,Latitude,Longitude
 76230,San Francisco,Residential,Queretaro,20.6059678,-100.4916593
 76230,Cumbres del Lago,Residential,Queretaro,20.6059678,-100.4916593
 76230,Juriquilla,Agro-industrial,Queretaro,20.6059678,-100.4916593
-76230,La cañada,Residential,Queretaro,20.6059678,-100.4916593
+76230,La ca√±ada,Residential,Queretaro,20.6059678,-100.4916593
 76230,Privada Juriquilla,Residential,Queretaro,20.6059678,-100.4916593
 76230,Providencia Juriquilla,Residential,Queretaro,20.6059678,-100.4916593
 76230,Toliman,Residential,Queretaro,20.6059678,-100.4916593
 76230,Balcones de Juriquilla,Residential,Queretaro,20.6059678,-100.4916593
 76232,San Pedrito El Alto,Agro-industrial,Queretaro,20.66404742,-100.3981413
-76233,Peñuelas,Agro-industrial,Queretaro,20.6121194,-100.3850819
-76234,Santo Niño de Praga,Agro-industrial,Queretaro,20.6121194,-100.3850819
+76233,Pe√±uelas,Agro-industrial,Queretaro,20.6121194,-100.3850819
+76234,Santo Ni√±o de Praga,Agro-industrial,Queretaro,20.6121194,-100.3850819
 76235,Menchaca,Agro-industrial,Queretaro,20.6121194,-100.3850819
 76236,El Zapote,Agro-industrial,Queretaro,20.6121194,-100.3850819
-76237,Bolaños,Common land,Queretaro,20.6780619,-100.38697
+76237,Bola√±os,Common land,Queretaro,20.6780619,-100.38697
 76238,San Jose El Alto,Agro-industrial,Queretaro,20.6121194,-100.3850819
 76239,La Purisima,Agro-industrial,Queretaro,20.6121194,-100.3850819

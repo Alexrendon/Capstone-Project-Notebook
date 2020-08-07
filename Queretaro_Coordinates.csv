@@ -1,7 +1,7 @@
 Postcode,Borough,Neighbourhood,Latitude,Longitude
 76000,Queretaro,Centro,20.5954708,-100.3970593
 76005,Queretaro,"Rincón de San Andrés, Mariano Escobedo, Vicente Guerrero, Rinconada Morelos",20.5950059198615,-100.398769877602
-76010,Queretaro,"Las Campanas, Niños Héroes",20.589144895283300,-100.41002296473700
+76010,Queretaro,"Las Campanas, Niños Héroes",20.585667481832527,-100.407091029038
 76017,Queretaro,Centro Universitario (U.A.Q.),20.5922820532424,-100.409679021783
 76020,Queretaro,"San Javier, Pathé, La Cruz, Jardines de Queretaro, Diligencias, Calesa, Bosques del Acueducto, El Cortijo",20.59656828086,-100.379079150576
 76024,Queretaro,"Conjunto Seminario, Karina, La Peñita, Calesa 2a Sección, El Cortijo, El Oasis, Villa Los Arcos, El Cortijo II, Del Río",20.5996430883716,-100.370500994075
@@ -9,7 +9,7 @@ Postcode,Borough,Neighbourhood,Latitude,Longitude
 76026,Queretaro,"La Cruz, Goyeneche",20.5986050606408,-100.379830349074
 76027,Queretaro,"San José Inn, Arboledas del Río",20.5993773335809,-100.38615034471
 76028,Queretaro,Universidad,20.598809625449400,-100.38729097959800
-76030,Queretaro,"El Prado, Moderna, Las Misiones, Las Fuentes, San Ángel, El Carrizal, Cimatario, Casa Blanca, Estrella",20.580199715813400,-100.39499474461700
+76030,Queretaro,"El Prado, Moderna, Las Misiones, Las Fuentes, San Ángel, El Carrizal, Cimatario, Casa Blanca, Estrella",20.580010934645813,-100.39489086170956
 76036,Queretaro,Rinconada Fray Juan,20.5812310826573,-100.395779558018
 76037,Queretaro,Mariano de las Casas,20.579183291477000,-100.40147663475300
 76040,Queretaro,"Andalucía, Alameda, Aragón, Las Palmas, Mercurio, Observatorio, Panamericano, Valle Alameda, Villas del Sur",20.5836065641449,-100.38121384579100
@@ -39,7 +39,7 @@ Postcode,Borough,Neighbourhood,Latitude,Longitude
 76100,Queretaro,"Murano, Las Campanas, Privada de los Portones, Jurica, Jurica Pinar, Gobernantes, Jurica, Valle de Juriquilla, Rinconada Jurica, El Bordo, Hacienda Juriquilla Santa Fe, Bleu Casas Platina, Jurica, Santa Rosa, Vive, Dolce Terra, El Destino, Valle Garden, La Castellana, Atenas",20.678530449465100,-100.4503911313260
 76110,Queretaro,"Satélite Sección Andadores, Ampliación Satélite, Satélite Sección Condominios, Josefa Ortiz de Domínguez III, Josefa Ortiz de Domínguez II, Cosmos (Satelite), Satélite, Lomas de Satélite",20.6374037703318,-100.448760311263
 76113,Queretaro,"Rancho San Pedro, Valle de San Pedro, El Arcángel, Tonatiuh 3a Sección, Tonatiuh 2a. Sección, Tonatiú, Tonatiuh 4a Sección, Alborada, Plan Santa María, Valle de San Pedro 2a Sección, Los Framboyanes, La Luna, Bosques del Sol, Rinconada del Sol, El Sol Residencial, El Sol, Santa Isabel",20.61465415856190,-100.45389081063700
-76114,Queretaro,"Los Castaños, Sendero, Lomas del Carmen, La Huerta, El Rocio II, Don Manuel, Puerta del Sol II, Los Sauces, El Rocio",20.61434017038930,-100.43839577932900
+76114,Queretaro,"Los Castaños, Sendero, Lomas del Carmen, La Huerta, El Rocio II, Don Manuel, Puerta del Sol II, Los Sauces, El Rocio",20.620907329612372,-100.44437426746985
 76115,Queretaro,"El Garambullo, Parque Santiago",20.628640622737000,-100.45504244014200
 76116,Queretaro,"Ampliación Patria Nueva, Chula Vista I, Che Guevara (Axayacatl), Loma IX, 25 de Diciembre, Geo Villas, Josefa Ortiz de Domínguez IV, Tenochtitlán II, Víctor Iturbe, Rinconada de las Fuentes, Misión de Carrillo II, Chula Vista II, Patria Nueva, Loma Real, Eucaliptos, Lomas de San Ángel, Las Camelinas, Jardines de Azucenas, Prados del Rincón 2a. Sección, La Floresta, Misión de Carrillo, Tenochtitlán, Ciudad del Sol, Los Encinos, Sierra Colorada, Benito Juárez, Cerrito Colorado, Ciudad del Sol Sección Valle de Santiago, Real de la Loma, Puerta Navarra, Ex-Hacienda Santana, Villas de Guadalupe, Teotihuacan, La Loma, Cerrito Colorado 2a Secc, Querena, Claustros de la Loma, Geo Plazas, Vistas del Valle, Rocio Sanz, Bugambilias Residencial, La Peña, Las Azucenas, Puerta del Sol, La Cordillera, Colinas del Poniente",20.6426795287313,-100.47293330197700
 76117,Queretaro,"Pedregal de Buenos Aires, Centenario, Francisco Javier Mina, Comevi, Laderas de San Pedro, La Esmeralda, San Marcos I, Jardines del Sol, Fernando de Tapia, Fundadores, Misión Fundadores, Colinas de Santa Cruz 2a Sección, Colinas de Santa Cruz 1a Sección, San Pedro Mártir, Rubén Jaramillo, Desarrollo Familiar, San Marcos, Insurgentes, Prados del Rincón",20.622135727857,-100.461988828161
@@ -52,8 +52,8 @@ Postcode,Borough,Neighbourhood,Latitude,Longitude
 76134,Queretaro,"Rancho Bellavista, Santa Mónica, San Sebastián, Ampolletas, El Mirador, El Tintero Dos (Las Margaritas), Plutarco Elías Calles, Solidaridad 90, El Arco, El Tintero, Nuevo Carrillo",20.607897700000000,-100.4396002
 76135,Queretaro,"San Antonio de la Punta, 5 de Febrero",20.5964894787664,-100.423290401265
 76136,Queretaro,"José María Arteaga, Zona Militar",20.593969471745,-100.434995636573
-76137,Queretaro,"La Aurora, Del Valle, San José 2a Sección, El Chamizal, Ferrocarriles Sección Rinconada Santa Anita, Jardines del Valle, Valle Real de San Ángel, La Sierrita, San Antonio del Maurel, Las Flores, Santo Niño, Santa María Magdalena, Fuentes Residencial",20.5966320195516,-100.443297960167
-76138,Queretaro,"El Tintero, El Higo, Valle del Mezquital, Rinconada Zimapán, Luis Donaldo Colosio, Villas de Santa Mónica, Santa Mónica 1a Sección, El Progreso, Las Teresas, Felipe Carrillo Puerto, Santa Mónica 2a Secc",20.63576113088510,-100.40436609478700
+76137,Queretaro,"La Aurora, Del Valle, San José 2a Sección, El Chamizal, Ferrocarriles Sección Rinconada Santa Anita, Jardines del Valle, Valle Real de San Ángel, La Sierrita, San Antonio del Maurel, Las Flores, Santo Niño, Santa María Magdalena, Fuentes Residencial",20.596632019551638,-100.44329796016738
+76138,Queretaro,"El Tintero, El Higo, Valle del Mezquital, Rinconada Zimapán, Luis Donaldo Colosio, Villas de Santa Mónica, Santa Mónica 1a Sección, El Progreso, Las Teresas, Felipe Carrillo Puerto, Santa Mónica 2a Secc",20.60542364194029,-100.43096687446419
 76139,Queretaro,"La Higuera, Las Josefinas, Carrillo, Los Laureles, San José, Los Tabachines, Manuel Jurado, San Diego",20.6124993909637,-100.424620376422
 76140,Queretaro,"Privada Arboledas, Cedros Tilipanes, Cedros Alcatraces, Las Plazas, Parque Queretaro 2000, Arboledas del Parque, San Pedrito Peñuelas, Viveros Residencial, Arboledas, Balcones Coloniales, Villas del Parque, Vista 2000, Colinas del Parque",20.61606782737310,-100.38485218832000
 76144,Queretaro,"Rancho San Antonio, Bolaños, El Pedregal de Queretaro, Puerta del Cielo, Balcones del Acueducto",20.614672663991900,-100.37399248459500
@@ -63,7 +63,7 @@ Postcode,Borough,Neighbourhood,Latitude,Longitude
 76149,Queretaro,"Misión de Concá, Misión San Jerónimo",20.6301736857695,-100.365564444394
 76150,Queretaro,"Felipe Ángeles, Sauces, Las Palomas, Asalias, El Fenix, San Roque, Géminis, Tecnológico 2000, Los Vitrales, Villas Tecnológico, San Pablo Tecnológico, Parque Industrial la Montaña, Los Fresnos, San Roque, La Popular, Molinos de la Era, Los Molinos, Bugambilias, Los Alcanfores, La Piedad, La Era, La Florida, La Estación F.F.C.C., Constituyentes FOVISSSTE, Rinconada los Pirules, Rinconada San José",20.60485670424400,-100.39883087973500
 76154,Queretaro,El Retablo,20.5969415293692,-100.404179055375
-76155,Queretaro,Viveros de Queretaro,20.605973,-100.3770356
+76155,Queretaro,Viveros de Queretaro,20.596336315751113,-100.40605861708474
 76156,Queretaro,"Constituyentes de 1824, Los Eucaliptos, San Gregorio, Los Alcanfores Sección Norte",20.6032365865841,-100.40554368332
 76157,Queretaro,Santa Catarina,20.606859633333300,-100.40113656666700
 76158,Queretaro,"Victoria, Real del Parque, Los Faroles, Prados del Tecnológico, Departamental Parques, España, Conjunto Parques, Tecnológico, El Porvenir, Las Peñitas, Las Peñas",20.6098679972564,-100.402457514779

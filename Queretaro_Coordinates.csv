@@ -2,12 +2,12 @@ Postcode,Borough,Neighbourhood,Latitude,Longitude
 76000,Queretaro,Centro,20.5954708,-100.3970593
 76005,Queretaro,"Rincón de San Andrés, Mariano Escobedo, Vicente Guerrero, Rinconada Morelos",20.5950059198615,-100.398769877602
 76010,Queretaro,"Las Campanas, Niños Héroes",20.589144895283300,-100.41002296473700
-76017,Queretaro,Centro Universitario (U.A.Q.),20.612119400000000,-100.38508190537500
-76020,Queretaro,"San Javier, Pathé, La Cruz, Jardines de Queretaro, Diligencias, Calesa, Bosques del Acueducto, El Cortijo",20.595157966107900,-100.38016381528500
-76024,Queretaro,"Conjunto Seminario, Karina, La Peñita, Calesa 2a Sección, El Cortijo, El Oasis, Villa Los Arcos, El Cortijo II, Del Río",20.60100997735220,-100.36921541802100
+76017,Queretaro,Centro Universitario (U.A.Q.),20.5922820532424,-100.409679021783
+76020,Queretaro,"San Javier, Pathé, La Cruz, Jardines de Queretaro, Diligencias, Calesa, Bosques del Acueducto, El Cortijo",20.59656828086,-100.379079150576
+76024,Queretaro,"Conjunto Seminario, Karina, La Peñita, Calesa 2a Sección, El Cortijo, El Oasis, Villa Los Arcos, El Cortijo II, Del Río",20.5996430883716,-100.370500994075
 76025,Queretaro,La Pastora,20.592993539396400,-100.37968649198200
-76026,Queretaro,"La Cruz, Goyeneche",20.59720275548600,-100.38681260693200
-76027,Queretaro,"San José Inn, Arboledas del Río",20.598872859088900,-100.38627138557900
+76026,Queretaro,"La Cruz, Goyeneche",20.5986050606408,-100.379830349074
+76027,Queretaro,"San José Inn, Arboledas del Río",20.5993773335809,-100.38615034471
 76028,Queretaro,Universidad,20.598809625449400,-100.38729097959800
 76030,Queretaro,"El Prado, Moderna, Las Misiones, Las Fuentes, San Ángel, El Carrizal, Cimatario, Casa Blanca, Estrella",20.580199715813400,-100.39499474461700
 76036,Queretaro,Rinconada Fray Juan,20.5812310826573,-100.395779558018
@@ -15,23 +15,23 @@ Postcode,Borough,Neighbourhood,Latitude,Longitude
 76040,Queretaro,"Andalucía, Alameda, Aragón, Las Palmas, Mercurio, Observatorio, Panamericano, Valle Alameda, Villas del Sur",20.5836065641449,-100.38121384579100
 76046,Queretaro,"San Joaquín, Panorámico, El Laurel, Villas del Sol",20.58137553066190,-100.37780120025900
 76047,Queretaro,"El Marqués, Quintas del Marqués",20.583838233825500,-100.37005896957700
-76048,Queretaro,Arquitos,20.571274236445400,-100.38037183890600
+76048,Queretaro,Arquitos,20.5863187952898,-100.364487464737
 76049,Queretaro,Loma Bonita,20.587390000964300,-100.36729699647800
 76050,Queretaro,Carretas,20.591591060423100,-100.37171590613400
 76057,Queretaro,Hidalgo,20.58762497516970,-100.38541194888200
 76058,Queretaro,San Francisquito,20.588841366989000,-100.38497232951500
 76059,Queretaro,Plaza de las Américas,20.5884336061677,-100.374462483523
-76060,Queretaro,"Cumbres del Mirador, Loma Dorada, Milenio 3a. Sección",20.5877167173389,-100.3561605698730
+76060,Queretaro,"Cumbres del Mirador, Loma Dorada, Milenio 3a. Sección",20.5946984421353,-100.35512413641
 76063,Queretaro,"Vista Hermosa, La Virgen, Villas del Oriente, Cuesta Bonita, Pedregal de Vista Hermosa",20.5871882354745,-100.355464996124
 76067,Queretaro,La Laguna,20.5985080856951,-100.357027228467
 76069,Queretaro,"San José de los Perales, La Cuesta, La Estación, Nuevo Morelos, La Estación 2a. Sección, Bugambilias, Hércules, Tejas, El Limonar, El Bosque, 2 de Abril, Jardines de Hércules, 8 de Diciembre",20.602116433333300,-100.36045506666700
-76070,Queretaro,"Conjunto Terranova, El Retiro, Loma Linda, Prados del Mirador, Corregidora (Burocrata), Vista",20.58191375013940,-100.40981643269400
+76070,Queretaro,"Conjunto Terranova, El Retiro, Loma Linda, Prados del Mirador, Corregidora (Burocrata), Vista",20.5731674855518,-100.380961428145
 76074,Queretaro,"La Alhambra, Vista Alegre, Vista Alegre 2a Secc, Vista Alegre 3a Sección, Palomar del Duque",20.564053966666700,-100.37687576666700
 76078,Queretaro,Villas Valle Alameda,20.5778803579246,-100.384005227224
 76079,Queretaro,"Balaustradas, Quinta Balaustradas",20.576460196050500,-100.38223438507200
-76080,Queretaro,"Lomas de Casa Blanca, Presidentes",20.56155833349710,-100.39842014856100
+76080,Queretaro,"Lomas de Casa Blanca, Presidentes",20.5681327406439,-100.391518697277
 76085,Queretaro,"Lomas del Valle, La Unión, Vistas del Cimatario, Bosques del Cimatario, Rincón del Cimatario, Altos del Cimatario, Fraternidad de Santiago, Lázaro Cárdenas III, Universo 2000, Azteca, Arte Mexicano, Colinas del Sur, Lomas del Cimatario, El Marqués Queretano",20.5524302139733,-100.385993351855
-76086,Queretaro,"Reforma Agraria 1a Sección, Reforma Agraria 2a Secc, Reforma Agraria 3a Secc, Reforma Agraria 4a Secc, Reforma Agraria 5a Secc",20.548624844864200,-100.40338002905900
+76086,Queretaro,"Reforma Agraria 1a Sección, Reforma Agraria 2a Secc, Reforma Agraria 3a Secc, Reforma Agraria 4a Secc, Reforma Agraria 5a Secc",20.5607104678191,-100.398995146274
 76087,Queretaro,"Huertas del Cimatario, Linderos del Cimatario, Prados de Queretaro, Bosques de las Lomas, Pedregal del Cimatario, Raquel Trejo Ortiz, Bellavista, Manantiales del Cimatario, Prados del Cimatario, Monte Blanco II, Monte Blanco III, Misión Cimatario, Jardines del Cimatario, San Andrés, Comerciantes, Lázaro Cárdenas, Lomas de Pasteur, Monte Blanco I, Vista Azul, Villas del Rincón, Constelación, Villas del Cimatario, Zapata Vive, Bosques de Queretaro, Unidad Roma, Cuitlahuac, Praderas del Sol, Campestre Italiana, Bosques del Cimatario 2a. Sección",20.556337751908900,-100.37680045219700
 76090,Queretaro,"Centro Sur, Colinas del Cimatario",20.566198072991200,-100.36969338714800
 76093,Queretaro,"Claustros de la Corregidora 2, Claustros del Marques, Residencial Ángeles, Claustros del Sur, Claustros de la Corregidora I, Claustros de Santiago, Claustros de la Catedral, Claustros de las Misiones",20.5668553844044,-100.363880580333
@@ -45,10 +45,10 @@ Postcode,Borough,Neighbourhood,Latitude,Longitude
 76117,Queretaro,"Pedregal de Buenos Aires, Centenario, Francisco Javier Mina, Comevi, Laderas de San Pedro, La Esmeralda, San Marcos I, Jardines del Sol, Fernando de Tapia, Fundadores, Misión Fundadores, Colinas de Santa Cruz 2a Sección, Colinas de Santa Cruz 1a Sección, San Pedro Mártir, Rubén Jaramillo, Desarrollo Familiar, San Marcos, Insurgentes, Prados del Rincón",20.622135727857,-100.461988828161
 76118,Queretaro,"Paseos de San Miguel, Eduardo Loarca Castillo, Jardines de Jurica, El Romerillal, Villas de San Miguel, Paraíso, Revolución, San Miguel, Leyes de Reforma, El Tepeyac, Real del Marques Residencial, 5 de Febrero, Rinconada del Cerrito, Luis Donaldo Colosio, Prados de Loma Bonita, 15 de Mayo, Lomas del Pedregal 2a. Sección, Independencia, Libertadores, Loma Bonita 2a. Sección, Francisco Villa I, Hacienda Mompaní, Monte Vesubio, Morelos, Francisco Villa II, Rosendo Salazar, Cerrito Colorado IV, Cerrito Colorado V, Cerrito Colorado VI, Cerrito Colorado VII, Miguel Hidalgo, Loma Bonita, 10 de Abril, Cerrito Colorado III",20.65090621789040,-100.47176618636900
 76120,Queretaro,"Benito Juárez, Santiago",20.633258314967800,-100.43223125185400
-76121,Queretaro,"Altos de San Pablo, La Esperanza, Puesta del Sol, Felipe Ángeles, Tlanese, Nueva Esperanza, San Pablo III (INFONAVIT), Conquistadores, San Pablo IV (INFONAVIT), Las Américas San Pablo, Las Américas, Movimiento Obrero",20.627043171962500,-100.41321995924900
+76121,Queretaro,"Altos de San Pablo, La Esperanza, Puesta del Sol, Felipe Ángeles, Tlanese, Nueva Esperanza, San Pablo III (INFONAVIT), Conquistadores, San Pablo IV (INFONAVIT), Las Américas San Pablo, Las Américas, Movimiento Obrero",20.6261267997451,-100.417205824349
 76125,Queretaro,"San Pablo II FOVISSSTE, Desarrollo San Pablo, San Pablo I FOVISSSTE, Rivera y Tamayo, Punta San Carlos, Latinoamericana, Misión Bucareli Sur, José María Bustamante, Margaritas, Proyección 2000, Desarrollo San Ángel, San Pablo, Valle de San Pablo, La Condesa, Balcones de San Pablo, Jardines de Alborada, Sergio Villaseñor, Lomas de San Pablo, Cipreses, Los Robles, Bellavista, Terrazas de San Pablo, Desarrollo San Pablo I, Desarrollo San Pablo II, San Pablo I, San Pablo II, Nuevo Horizonte",20.632400101751500,-100.41132771738200
 76127,Queretaro,"Lomas del Salitre, Palmares, Parque Industrial Jurica, Arco de Piedra, El Salitre, Raquet Club, Cuitláhuac",20.6580855,-100.4267226
-76130,Queretaro,"Industrial, Obrera",20.6177705,-100.4043864
+76130,Queretaro,"Industrial, Obrera",20.6196219488272,-100.426217482537
 76134,Queretaro,"Rancho Bellavista, Santa Mónica, San Sebastián, Ampolletas, El Mirador, El Tintero Dos (Las Margaritas), Plutarco Elías Calles, Solidaridad 90, El Arco, El Tintero, Nuevo Carrillo",20.607897700000000,-100.4396002
 76135,Queretaro,"San Antonio de la Punta, 5 de Febrero",20.5964894787664,-100.423290401265
 76136,Queretaro,"José María Arteaga, Zona Militar",20.593969471745,-100.434995636573
@@ -62,11 +62,11 @@ Postcode,Borough,Neighbourhood,Latitude,Longitude
 76148,Queretaro,"Nueva Esperanza, Bosques de Buenavista, Bosques de la Hacienda, Jardines de Santiago, El Vergel, Villas Fontana, Eurípides, Rincones del Parque, Ampliación Amalia Solórzano, Los Ciruelos, Paseos del Pedregal, Anexo a la Ecólogia, Nuevo San Pedrito, Paseos de la Cuesta, La Rueca, Valle de San Pedrito Peñuelas, La Ladera, Alameda Residencial, Orion, Jardines de Villas de Santiago, Bosques de Iturbide, Unidad Nacional, Colinas de San Pablo, El Parque, Los Padilla, Cuesta Azul, San Pedrito los Arcos, Puerta de Belén, Peñuelas, Misión Bucareli Norte, Desarrollo Centro Norte, Misión Riviera, El Castaño, El Castaño II, Mallorca, Mirador San Xavier, Lomas de San Pedrito, Amalia Solórzano, Conjunto Belén, San Pedrito Ecológico, Ricardo Flores Magón, San Pedrito Peñuelas I, San Pedrito Peñuelas II, San Pedrito Peñuelas III, San Pedrito Peñuelas IV, Libertad, Lomas de San Pedrito (Sección Portales), Reforma Agraria Radical, Villas de Santiago, Los Sabinos",20.6484464719165,-100.40494042641
 76149,Queretaro,"Misión de Concá, Misión San Jerónimo",20.6301736857695,-100.365564444394
 76150,Queretaro,"Felipe Ángeles, Sauces, Las Palomas, Asalias, El Fenix, San Roque, Géminis, Tecnológico 2000, Los Vitrales, Villas Tecnológico, San Pablo Tecnológico, Parque Industrial la Montaña, Los Fresnos, San Roque, La Popular, Molinos de la Era, Los Molinos, Bugambilias, Los Alcanfores, La Piedad, La Era, La Florida, La Estación F.F.C.C., Constituyentes FOVISSSTE, Rinconada los Pirules, Rinconada San José",20.60485670424400,-100.39883087973500
-76154,Queretaro,El Retablo,20.596408353101500,-100.41260632816200
+76154,Queretaro,El Retablo,20.5969415293692,-100.404179055375
 76155,Queretaro,Viveros de Queretaro,20.605973,-100.3770356
 76156,Queretaro,"Constituyentes de 1824, Los Eucaliptos, San Gregorio, Los Alcanfores Sección Norte",20.6032365865841,-100.40554368332
 76157,Queretaro,Santa Catarina,20.606859633333300,-100.40113656666700
-76158,Queretaro,"Victoria, Real del Parque, Los Faroles, Prados del Tecnológico, Departamental Parques, España, Conjunto Parques, Tecnológico, El Porvenir, Las Peñitas, Las Peñas",20.608512782081100,-100.40035708812100
+76158,Queretaro,"Victoria, Real del Parque, Los Faroles, Prados del Tecnológico, Departamental Parques, España, Conjunto Parques, Tecnológico, El Porvenir, Las Peñitas, Las Peñas",20.6098679972564,-100.402457514779
 76159,Queretaro,"Real de San Pablo, 5 de Febrero, Fresnos Condominio 3, Fresnos Condominio 2, Conjunto Queretaro, Fresnos Condominio 4, La Cima, Real Jurica, Rinconada San Joaquín, Los Girasoles, San Pablo, Balcón Campestre",20.6154964806583,-100.415704609234
 76160,Queretaro,"Rinconada de los Alamos, Montecarlo, Privada Bugambilias, Residencial Parque del Álamo, Las Hadas, Romy, El Tepetate, Las Brujas, Álamos 1a Sección, El Cerrito, Álamos 3a Sección, Álamos 2a Sección",20.6057320235745,-100.383927423967
 76164,Queretaro,"Nacozari, Las Rosas, Primavera",20.60091229130770,-100.39443611057700
@@ -74,14 +74,14 @@ Postcode,Borough,Neighbourhood,Latitude,Longitude
 76166,Queretaro,La Trinidad,20.603716965984500,-100.38821628315200
 76168,Queretaro,"Claustros del Parque, Residencial Bosques, Mega Plaza, Lomas de Lindavista, Jacarandas, Industria del Hierro, Las Gemas, Quinta La Laborcilla, Lindavista",20.60606852080920,-100.39301414783700
 76169,Queretaro,"Plaza del Parque, Plaza Boulevares, Privada la Laborcilla",20.614491425378600,-100.39066676510600
-76170,Queretaro,"Eucaliptos III, La Capilla, Colibrí, La Reja, Eucaliptos I, Eucaliptos II",20.578725836923600,-100.41236664252000
+76170,Queretaro,"Eucaliptos III, La Capilla, Colibrí, La Reja, Eucaliptos I, Eucaliptos II",20.5826667594356,-100.410420432761
 76175,Queretaro,Los Virreyes,20.578698746566,-100.406145897771
-76176,Queretaro,Prados de La Capilla,20.580317709522600,-100.40979201423100
+76176,Queretaro,Prados de La Capilla,20.578725836923600,-100.41236664252000
 76177,Queretaro,"Residencial Parque La Gloria, Residencial Villa Jardín, Residencial laToscana, Hacienda Galindo, Frida Kahlo, Provincia Santa Elena, Demetrio Vallejo, Villas de San Antonio, Residencial Frondoso, La Carambada, Rinconada La Capilla, Modelo, Ejido Modelo, Galindas Residencial, Residencial Gema, Carolina",20.5834081742582,-100.424819041312
 76178,Queretaro,"Ensueño, Villa las Arboledas, El Rosario, La Sandia, Residencial los Ángeles",20.58201607392770,-100.41386028849900
 76179,Queretaro,"C.E.A., Quinta Alicia, Residencial Italia, Santiago, El Sillar",20.5896914211326,-100.41750405829
-76180,Queretaro,"El Jacal, Jardines de la Hacienda, La Granja, Las Plazas, Orquídeas, Magisterial, La Joya, Anáhuac",20.56719179433880,-100.41285347163600
-76185,Queretaro,"Mansiones del Valle, Hacienda San Miguel, Claustros del Campestre",20.5639622875,-100.41417523750000
+76180,Queretaro,"El Jacal, Jardines de la Hacienda, La Granja, Las Plazas, Orquídeas, Magisterial, La Joya, Anáhuac",20.5710139235075,-100.41711002395
+76185,Queretaro,"Mansiones del Valle, Hacienda San Miguel, Claustros del Campestre",20.5641781514196,-100.417822614221
 76190,Queretaro,"Rincón de San Antonio, Los Pilares, Del Valle, Club Campestre, Lomas de Queretaro",20.5641278031445,-100.406943562235
 76197,Queretaro,Fidel Velázquez Sánchez,20.5711835000883,-100.400995982726
 76199,Queretaro,Prados del Campestre,20.5678026944761,-100.409117619709
@@ -104,7 +104,7 @@ Postcode,Borough,Neighbourhood,Latitude,Longitude
 76227,Queretaro,"La Purísima, El Transito, El Patol, Los Muertos, Cerro Prieto, Quintín Lozada",20.7268124046105,-100.557561743626
 76228,Queretaro,"La Tinaja de La Estancia, San Isidro El Alto",20.7113365660682,-100.551816052489
 76229,Queretaro,"Mompaní, San Francisco de la Palma, Mesita de Mompani, Puertas de San Miguel, El Puertecito, Santa María del Zapote, El Nabo, Tlacote El Alto, El Pie, Tlacote el Bajo",20.6769377049252,-100.520799285091
-76230,Queretaro,"Juriquilla Santa Fe, Caletto, Independencia, Azteca, Nuevo Juriquilla, Jurica Acueducto, Los Naranjos, Paraíso Diamante, Nuevo Paraíso, Mayoral 1 y 2, La Solana, Altavista Juriquilla, Rancho Largo, Juriquilla Privada, San Francisco Juriquilla, Jurica Tolimán, La Cañada Juriquilla, Balcones de Juriquilla, Cumbres del Lago, Rinconada Santini, Hacienda Grande, Colinas de Juriquilla, Punta Juriquilla, Jurica La Solana, Paseo del Piropo",20.605944,-100.4916155
+76230,Queretaro,"Juriquilla Santa Fe, Caletto, Independencia, Azteca, Nuevo Juriquilla, Jurica Acueducto, Los Naranjos, Paraíso Diamante, Nuevo Paraíso, Mayoral 1 y 2, La Solana, Altavista Juriquilla, Rancho Largo, Juriquilla Privada, San Francisco Juriquilla, Jurica Tolimán, La Cañada Juriquilla, Balcones de Juriquilla, Cumbres del Lago, Rinconada Santini, Hacienda Grande, Colinas de Juriquilla, Punta Juriquilla, Jurica La Solana, Paseo del Piropo",20.7044945461092,-100.453209702236
 76233,Queretaro,"El Huizachal de las Tetillas, Las Mariposas, Santa Rosa de Jauregui, Las Paulonias Campestre",20.7252426117409,-100.41339745269
 76234,Queretaro,Santo Niño de Praga,20.6685,-100.5117
 76235,Queretaro,"Los Viñedos, El Rincón, Tres Cantos Residencial, Sonterra, Campestre Huertas la Joya, Santa María de los Reyes, Puerta Verona",20.6195601844407,-100.491989791361
